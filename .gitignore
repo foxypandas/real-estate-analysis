@@ -1,0 +1,13 @@
+# Игнорируем старые версии
+old_versions/
+
+# Игнорируем файлы данных
+data/*.csv
+
+# Игнорируем файлы Jupyter
+.ipynb_checkpoints/
+
+# Игнорируем файлы ОС
+.DS_Store
+Thumbs.db
+
