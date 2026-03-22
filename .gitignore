@@ -1,15 +1,12 @@
-<<<<<<< HEAD
-# Игнорируем старые версии
+# Ignore old versions
 old_versions/
 
-# Игнорируем файлы данных
+# Ignore data files
 data/*.csv
 
-# Игнорируем файлы Jupyter
+# Ignore Jupyter files
 .ipynb_checkpoints/
 
-# Игнорируем файлы ОС
+# Ignore OS files
 .DS_Store
 Thumbs.db
-
-=======
