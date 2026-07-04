@@ -26,7 +26,7 @@ Preprocessing: missing values filled by feature type (medians for numeric, expli
 
 **Location.** Prices peak in the city center (0–5 km) and stabilize at 5–25 km. Suburban resort areas (Lisy Nos, Zelenogorsk) show elevated price per m² despite the distance — nature premium at work.
 
-![Price vs distance to center](images/price_vs_distance.png) 
+![Price vs distance to center](images/avg_price_per_m2_top_locations.png) 
 
 **Market dynamics.** Median time on market — 95 days (mean 168 days, skewed by long-tail listings). Sales within 30 days can be considered fast; listings over 100 days warrant a closer look — potential overpricing or property issues.
 
